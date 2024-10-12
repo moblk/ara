@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:0 CUID="1" tvg-name="Al.Aoula.Inter" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Al.Aoula.Inter.png" group-title="Maroco المغرب ",Al.Aoula.Inter
+#EXTINF:0 CUID="1" tvg-name="Al.Aoula.Inter" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Al.Aoula.Inter.png" group-title="All",Al.Aoula.Inter
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/133
-#EXTINF:0 CUID="2" tvg-name="2M.Maroc" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_2M.Maroc.png" group-title="Maroco المغرب ",2M.Maroc
+#EXTINF:0 CUID="2" tvg-name="2M.Maroc" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_2M.Maroc.png" group-title="All",2M.Maroc
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/134
-#EXTINF:0 CUID="3" tvg-name="ma: Arriadia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Arriadia.png" group-title="Maroco المغرب ",ma: Arriadia
+#EXTINF:0 CUID="3" tvg-name="ma: Arriadia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Arriadia.png" group-title="All",ma: Arriadia
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/135
-#EXTINF:0 CUID="4" tvg-name="Athaqafia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Athaqafia.png" group-title="Maroco المغرب ",Athaqafia
+#EXTINF:0 CUID="4" tvg-name="Athaqafia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Athaqafia.png" group-title="All",Athaqafia
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/136
-#EXTINF:0 CUID="5" tvg-name="Al.Maghribia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Al.Maghribia.png" group-title="Maroco المغرب ",Al.Maghribia
+#EXTINF:0 CUID="5" tvg-name="Al.Maghribia" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Al.Maghribia.png" group-title="All",Al.Maghribia
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/137
-#EXTINF:0 CUID="6" tvg-name="Assadissa" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Assadissa.png" group-title="Maroco المغرب ",Assadissa
+#EXTINF:0 CUID="6" tvg-name="Assadissa" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Assadissa.png" group-title="All",Assadissa
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/138
-#EXTINF:0 CUID="7" tvg-name="Tamazight" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Tamazight.png" group-title="Maroco المغرب ",Tamazight
+#EXTINF:0 CUID="7" tvg-name="Tamazight" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Tamazight.png" group-title="All",Tamazight
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/140
-#EXTINF:0 CUID="8" tvg-name="Tele.Maroc" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Tele.Maroc.png" group-title="Maroco المغرب ",Tele.Maroc
+#EXTINF:0 CUID="8" tvg-name="Tele.Maroc" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Tele.Maroc.png" group-title="All",Tele.Maroc
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/141
-#EXTINF:0 CUID="9" tvg-name="Medi1.Tv" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Medi1.Tv.png" group-title="Maroco المغرب ",Medi1.Tv
+#EXTINF:0 CUID="9" tvg-name="Medi1.Tv" tvg-logo="http://92.119.89.242/Logo/Maroc/Ma_Medi1.Tv.png" group-title="All",Medi1.Tv
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/142
 #EXTINF:0 CUID="161" tvg-chno="null" tvg-name="BEIN 4K" group-title="belN Sports HD",BEIN 4K
 http://mo3ad.xyz:25461/tQMZnaYdSE/ZKfaq66Ccr/170
